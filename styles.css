@@ -50,6 +50,16 @@ body {
     max-height: 200px;
 }
 
+.pagination{
+    justify-content: center;
+}
+.page-link{
+    color:  rgb(247, 119, 140);
+    background-color: pink;
+    margin-top: 20px;
+}
+
+
 @media (max-width: 1200px){
     .right {
         margin-top: 20px;
