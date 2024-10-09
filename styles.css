@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(253, 234, 238);
+}
+
+.bg-pink{ 
+    background-color:pink ;
+
+}
+.nav-margin-bottom{
+margin-bottom: 10px;
+
+}
+#navbarNavDarkDropdown{
+    background-color: rgb(249, 157, 173);
+}
+.dropdown-item{
+    background-color: pink;
+ color: rgb(253, 98, 124);
+}
+.dropdown-menu-dark{
+    background-color: rgb(249, 157, 173);
+
+}
+
+.accordion-button{
+
+background-color: rgb(249, 157, 173);
+}
+.accordion-button:not(.collapsed){
+    background-color:   rgb(247, 119, 140);
+}
